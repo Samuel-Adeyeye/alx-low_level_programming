@@ -24,7 +24,8 @@ if (!isdigit(str[count])) /*check if str there are digit*/
 return (0);
 }
 
-count++
+count++;
+
 }
 return (1);
 }
